@@ -12,9 +12,21 @@ As a assistant professor, I find it efficient if I want to let students use any 
 * [Drinks](#drinks)
 
 
-
-
 # Anime
+## Cat Facts
+Send a daily cat fact via text message.
+
+## Dog API
+Access and integrate over 20,000 dog images based on the Stanford Dogs Dataset.
+
+## IUCN Red List
+List of threatened species and provides an evaluation of the conservation status of plant and animal species.
+
+## RescueGroups.org APIs
+Live adoptable pet data queries including radius searches, animal-specific locations, animal-specific contact information, rescue and shelter searches, species, breeds, colors, patterns, and qualities lists.
+
+## The Whale Hotline
+Explore marine mammal sighting data.
 
 # Art
 
