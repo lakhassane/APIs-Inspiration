@@ -5,15 +5,11 @@ A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project. Thi
 As a assistant professor, I find it efficient if I want to let students use any APIs to deliver on a project.
 
 # List
-[Anime](#anime)
-
-[Art](#art)
-
-[Crime](#crime)
-
-[Cryptocurrency](#cryptocurrency)
-
-[Drinks](#drinks)
+* [Anime](#anime)
+* [Art](#art)
+* [Crime](#crime)
+* [Cryptocurrency](#cryptocurrency)
+* [Drinks](#drinks)
 
 
 
