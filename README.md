@@ -9,6 +9,8 @@ As a assistant professor, I find it efficient if I want to let students use any 
 * [Anime](#anime)
 * [Art](#art)
 * [Crime](#crime)
+* [Machine Learning](#machine-learning)
+* [Movies](#movies)
 
 
 # Animals
@@ -74,3 +76,38 @@ Integrates information on child labor and forced labor taken from the reports �
 
 ## BikeWise
 A place to learn about and report bike crashes, hazards, and thefts.
+
+# Machine Learning
+## Cloudmersive
+Advanced Machine Learning APIs for recognizing and processing images.
+
+## PixLab
+Process and analyze input media images or video content. Allows you to process, transform, and filter any images from any programming language with machine vision and deep learning APIs.
+
+## PredictionIO
+An open-source Machine Learning Server built on top of an open-source stack for developers and data scientists to create predictive engines for any machine learning task.
+
+## RxNLP Sentence Clustering
+Can group sentences (such as sentences from multiple news articles) or short texts (such as posts from Twitter or Facebook Status Updates) into logical groups.
+
+## Wit.AI
+A natural open-source language processing platform that offers the function to add intelligent speech functionality to web and mobile applications.
+
+# Movies
+## Harry Potter
+Returns spell routes, character routes, house, and sorting hat routes.
+
+## The New York Times Movie Review
+Access over 22,000 movie reviews by the New York Times critics from today back to 1924.
+
+## The Star Wars
+All the Star Wars data you’ve ever wanted: planets, spaceships, vehicles, people, films, and species from all the Star Wars films.
+
+## Star Wars Quotes
+Returns quotes from Star Wars films. You can even choose to get quotes from the Dark Side!
+
+## The Marvel
+Access information about Marvel’s library of comics — from new to old.
+
+## Netflix Roulette
+Returns a random Netflix title based on a user’s input, including genre, rating, and whether it is a movie or a TV show.
