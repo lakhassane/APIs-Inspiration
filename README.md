@@ -9,8 +9,6 @@ As a assistant professor, I find it efficient if I want to let students use any 
 * [Anime](#anime)
 * [Art](#art)
 * [Crime](#crime)
-* [Cryptocurrency](#cryptocurrency)
-* [Drinks](#drinks)
 
 
 # Animals
@@ -60,3 +58,19 @@ Add QueekyPaint to your personal blog or website.
 
 ## Svrf
 Search and experience the largest database of immersive face filters, 360 videos, and 360 photos.
+
+# Crime
+## FBI Wanted
+Easily get information on the FBI Wanted program.
+
+## Jailbase
+Get access to a database of mugshots and arrest data sourced from many counties across the U.S.
+
+## NFL Arrest
+Get NFL arrest data.
+
+## Sweat & Toil
+Integrates information on child labor and forced labor taken from the reports “Findings on the Worst Forms of Child Labor,” “List of Goods Produced by Child Labor or Forced Labor,” and “List of Products Produced by Forced or Indentured Child Labor.”
+
+## BikeWise
+A place to learn about and report bike crashes, hazards, and thefts.
