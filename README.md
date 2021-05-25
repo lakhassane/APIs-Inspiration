@@ -5,6 +5,7 @@ A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project. Thi
 As a assistant professor, I find it efficient if I want to let students use any APIs to deliver on a project.
 
 # List
+* [Animals](#animals)
 * [Anime](#anime)
 * [Art](#art)
 * [Crime](#crime)
@@ -12,7 +13,7 @@ As a assistant professor, I find it efficient if I want to let students use any 
 * [Drinks](#drinks)
 
 
-# Anime
+# Animals
 ## Cat Facts
 Send a daily cat fact via text message.
 
@@ -27,6 +28,22 @@ Live adoptable pet data queries including radius searches, animal-specific locat
 
 ## The Whale Hotline
 Explore marine mammal sighting data.
+
+# Anime
+## Anime News Network Encyclopedia
+Holds over 20,000 anime and manga titles and returns key encyclopedia data in XML format.
+
+## Studio Ghibli
+Access the catalogs of the people, places, and things found in the worlds of Ghibli.
+
+## Jikan
+The most active online anime + manga community and database.
+
+## Pokémon
+All the Pokémon data you’ll ever need in one place.
+
+## What Anime
+Trace back the original anime by screenshot. Searches over 22,300 hours of anime to find the best matching scene.
 
 # Art
 
