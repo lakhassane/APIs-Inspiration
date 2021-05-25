@@ -6,9 +6,13 @@ As a assistant professor, I find it efficient if I want to let students use any 
 
 # List
 [Anime](#anime)
+
 [Art](#art)
+
 [Crime](#crime)
+
 [Cryptocurrency](#cryptocurrency)
+
 [Drinks](#drinks)
 
 
