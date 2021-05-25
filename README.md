@@ -60,7 +60,7 @@ Add QueekyPaint to your personal blog or website.
 Search and experience the largest database of immersive face filters, 360 videos, and 360 photos.
 
 # Crime
-## FBI Wanted
+## FBI Wanted
 Easily get information on the FBI Wanted program.
 
 ## Jailbase
