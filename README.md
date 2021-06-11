@@ -86,19 +86,19 @@ A community-driven taco recipe repository.
 A community-driven taco recipe repository.
 
 # Machine Learning
-## Cloudmersive
+## [Cloudmersive](https://www.cloudmersive.com/image-recognition-and-processing-api?ref=apilist.fun)
 Advanced Machine Learning APIs for recognizing and processing images.
 
-## PixLab
+## [PixLab](https://pixlab.io/api)
 Process and analyze input media images or video content. Allows you to process, transform, and filter any images from any programming language with machine vision and deep learning APIs.
 
-## PredictionIO
+## [PredictionIO](http://predictionio.apache.org)
 An open-source Machine Learning Server built on top of an open-source stack for developers and data scientists to create predictive engines for any machine learning task.
 
-## RxNLP Sentence Clustering
+## [RxNLP Sentence Clustering](https://rxnlp.com/sentence-clustering-api/#.Xm15iJNKiu0)
 Can group sentences (such as sentences from multiple news articles) or short texts (such as posts from Twitter or Facebook Status Updates) into logical groups.
 
-## Wit.AI
+## [Wit.AI](https://wit.ai/docs)
 A natural open-source language processing platform that offers the function to add intelligent speech functionality to web and mobile applications.
 
 # Movies
