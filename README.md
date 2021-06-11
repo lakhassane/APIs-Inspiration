@@ -102,20 +102,17 @@ Can group sentences (such as sentences from multiple news articles) or short tex
 A natural open-source language processing platform that offers the function to add intelligent speech functionality to web and mobile applications.
 
 # Movies
-## Harry Potter
+## [Harry Potter](https://www.potterapi.com)
 Returns spell routes, character routes, house, and sorting hat routes.
 
-## The New York Times Movie Review
+## [The New York Times Movie Review](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
 Access over 22,000 movie reviews by the New York Times critics from today back to 1924.
 
-## The Star Wars
-All the Star Wars data you’ve ever wanted: planets, spaceships, vehicles, people, films, and species from all the Star Wars films.
-
-## Star Wars Quotes
+## [Star Wars Quotes](http://swquotesapi.digitaljedi.dk/index.html)
 Returns quotes from Star Wars films. You can even choose to get quotes from the Dark Side!
 
-## The Marvel
+## [The Marvel](https://developer.marvel.com)
 Access information about Marvel’s library of comics — from new to old.
 
-## Netflix Roulette
+## [Netflix Roulette](https://reelgood.com/faq#api-access)
 Returns a random Netflix title based on a user’s input, including genre, rating, and whether it is a movie or a TV show.
