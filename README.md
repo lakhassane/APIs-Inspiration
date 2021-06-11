@@ -47,19 +47,16 @@ All the Pokémon data you’ll ever need in one place.
 Trace back the original anime by screenshot. Searches over 22,300 hours of anime to find the best matching scene.
 
 # Art
-## Burning Man’s PlayaEvents
-Provides programmatic access to information describing events, theme camps, art installations, and streets.
-
-## Poems
+## [Poems](https://poems.one/api/poem/)
 Return poem of the day and random poems. You can also search for poems based on author, tag, and keyword, and you can access a private poem collection.
 
-## Harvard Art Museum
+## [Harvard Art Museum](https://harvardartmuseums.org/collections/api)
 Explore and integrate the museum’s collections in your projects and access data about objects, people, exhibitions, publications, and galleries.
 
-## Queeky
+## [Queeky](https://www.queeky.com/api)
 Add QueekyPaint to your personal blog or website.
 
-## Svrf
+## [Svrf](https://www.svrf.com/developers)
 Search and experience the largest database of immersive face filters, 360 videos, and 360 photos.
 
 # Crime
