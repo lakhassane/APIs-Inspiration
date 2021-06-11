@@ -31,19 +31,19 @@ Live adoptable pet data queries including radius searches, animal-specific locat
 Explore marine mammal sighting data.
 
 # Anime
-## Anime News Network Encyclopedia
+## [Anime News Network Encyclopedia](https://www.animenewsnetwork.com/encyclopedia/api.php)
 Holds over 20,000 anime and manga titles and returns key encyclopedia data in XML format.
 
-## Studio Ghibli
+## [Studio Ghibli](https://ghibliapi.herokuapp.com/?ref=apilist.fun)
 Access the catalogs of the people, places, and things found in the worlds of Ghibli.
 
-## Jikan
+## [Jikan](https://jikan.moe)
 The most active online anime + manga community and database.
 
-## Pokémon
+## [Pokémon](https://pokeapi.co)
 All the Pokémon data you’ll ever need in one place.
 
-## What Anime
+## [What Anime](https://soruly.github.io/trace.moe/#/)
 Trace back the original anime by screenshot. Searches over 22,300 hours of anime to find the best matching scene.
 
 # Art
