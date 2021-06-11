@@ -60,19 +60,16 @@ Add QueekyPaint to your personal blog or website.
 Search and experience the largest database of immersive face filters, 360 videos, and 360 photos.
 
 # Crime
-## FBI Wanted
+## [FBI Wanted](https://www.fbi.gov/wanted/api)
 Easily get information on the FBI Wanted program.
 
-## Jailbase
+## [Jailbase](https://www.jailbase.com/api/)
 Get access to a database of mugshots and arrest data sourced from many counties across the U.S.
 
-## NFL Arrest
-Get NFL arrest data.
-
-## Sweat & Toil
+## [Sweat & Toil](https://developer.dol.gov/others/sweat-and-toil/#region)
 Integrates information on child labor and forced labor taken from the reports “Findings on the Worst Forms of Child Labor,” “List of Goods Produced by Child Labor or Forced Labor,” and “List of Products Produced by Forced or Indentured Child Labor.”
 
-## BikeWise
+## [BikeWise](https://www.bikewise.org/documentation/api_v2)
 A place to learn about and report bike crashes, hazards, and thefts.
 
 # Food
