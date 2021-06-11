@@ -79,20 +79,17 @@ Integrates information on child labor and forced labor taken from the reports â€
 A place to learn about and report bike crashes, hazards, and thefts.
 
 # Food
-## FatSecret Platform
+## [FatSecret Platform](https://platform.fatsecret.com/api/)
 Complete access to a comprehensive database of accurate food and nutrition information as well as exercise and weight management tools.
 
-## Fruityvice
+## [Fruityvice](https://www.fruityvice.com)
 A community-driven taco recipe repository.
 
-## Street Food App API
+## [Street Food App API](https://streetfoodapp.com/api)
 A community-driven taco recipe repository.
 
-## TacoFancy
+## [TacoFancy](https://github.com/evz/tacofancy-api)
 A community-driven taco recipe repository.
-
-## Zomato
-Access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 
 # Machine Learning
 ## Cloudmersive
