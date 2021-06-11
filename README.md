@@ -9,6 +9,7 @@ As a assistant professor, I find it efficient if I want to let students use any 
 * [Anime](#anime)
 * [Art](#art)
 * [Crime](#crime)
+* [Food](#food)
 * [Machine Learning](#machine-learning)
 * [Movies](#movies)
 
@@ -76,6 +77,22 @@ Integrates information on child labor and forced labor taken from the reports â€
 
 ## BikeWise
 A place to learn about and report bike crashes, hazards, and thefts.
+
+# Food
+## FatSecret Platform
+Complete access to a comprehensive database of accurate food and nutrition information as well as exercise and weight management tools.
+
+## Fruityvice
+A community-driven taco recipe repository.
+
+## Street Food App API
+A community-driven taco recipe repository.
+
+## TacoFancy
+A community-driven taco recipe repository.
+
+## Zomato
+Access to the freshest and most exhaustive information for over 1.5 million restaurants across 10,000 cities globally.
 
 # Machine Learning
 ## Cloudmersive
