@@ -15,19 +15,19 @@ As a assistant professor, I find it efficient if I want to let students use any 
 
 
 # Animals
-## Cat Facts
+## [Cat Facts](https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun)
 Send a daily cat fact via text message.
 
-## Dog API
+## [Dog API](https://dog.ceo/dog-api/)
 Access and integrate over 20,000 dog images based on the Stanford Dogs Dataset.
 
-## IUCN Red List
+## [IUCN Red List](https://apiv3.iucnredlist.org)
 List of threatened species and provides an evaluation of the conservation status of plant and animal species.
 
-## RescueGroups.org APIs
+## [RescueGroups.org APIs](https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home?ref=apilist.fun)
 Live adoptable pet data queries including radius searches, animal-specific locations, animal-specific contact information, rescue and shelter searches, species, breeds, colors, patterns, and qualities lists.
 
-## The Whale Hotline
+## [The Whale Hotline](http://hotline.whalemuseum.org/api)
 Explore marine mammal sighting data.
 
 # Anime
